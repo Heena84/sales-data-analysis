@@ -69,3 +69,23 @@ New York      74028.5896
 Washington    33402.6517  
 Michigan      24463.1876  
 Virginia      18597.9504v
+
+Project Highlights
+Used groupby operations to analyze trends by state and sub-category
+
+Generated visualizations for business reporting
+
+Read Excel/CSV file using pandas, created bar charts using matplotlib
+
+📁 Files Included
+sales_analysis.py – Main Python analysis script
+
+SampleSuperstore.csv – Dataset
+
+README.md – This file
+
+🙋‍♀️ About Me
+Heena Khan
+📌 Transitioning from academic teaching to IT & data analytics
+📧 heenakhan8386@gmail.com
+🔗 LinkedIn (Add your actual profile link)
