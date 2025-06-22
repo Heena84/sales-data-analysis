@@ -88,4 +88,4 @@ README.md – This file
 Heena Khan
 📌 Transitioning from academic teaching to IT & data analytics
 📧 heenakhan8386@gmail.com
-🔗 LinkedIn (Add your actual profile link)
+🔗 LinkedIn : https://www.linkedin.com/in/heena-khan-4227335b/
