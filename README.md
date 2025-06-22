@@ -38,3 +38,13 @@ Source: [Kaggle - Superstore Dataset](https://www.kaggle.com/datasets/vivek468/s
 3. Run:
 ```bash
 python sales_analysis.py
+
+##Output Example
+Total Sales: 2297200.8603
+Total Profit: 286397.0217
+Top 5 States by Profit:
+California      76381.3871
+New York        74028.5896
+Washington      33402.6517
+Michigan        24463.1876
+Virginia        18597.9504
