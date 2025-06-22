@@ -40,11 +40,32 @@ Source: [Kaggle - Superstore Dataset](https://www.kaggle.com/datasets/vivek468/s
 python sales_analysis.py
 
 ##Output Example
-Total Sales: 2297200.8603
-Total Profit: 286397.0217
+First five rows of data:
+   Row ID        Order ID  Order Date  Ship Date     Sales  Quantity  Discount  Profit
+0       1  CA-2016-152156  11/8/2016  11/11/2016  261.9600         2      0.00  41.9136
+1       2  CA-2016-152156  11/8/2016  11/11/2016  731.9400         3      0.00 219.5820
+2       3  CA-2016-138688  6/12/2015  6/16/2015   14.6200         2      0.00   6.8714
+
+Total Sales: 2297200.8603  
+Total Profit: 286397.0217  
+
 Top 5 States by Profit:
-California      76381.3871
-New York        74028.5896
-Washington      33402.6517
-Michigan        24463.1876
-Virginia        18597.9504
+California    76381.3871  
+New York      74028.5896  
+Washington    33402.6517  
+Michigan      24463.1876  
+Virginia      18597.9504First five rows of data:
+   Row ID        Order ID  Order Date  Ship Date     Sales  Quantity  Discount  Profit
+0       1  CA-2016-152156  11/8/2016  11/11/2016  261.9600         2      0.00  41.9136
+1       2  CA-2016-152156  11/8/2016  11/11/2016  731.9400         3      0.00 219.5820
+2       3  CA-2016-138688  6/12/2015  6/16/2015   14.6200         2      0.00   6.8714
+
+Total Sales: 2297200.8603  
+Total Profit: 286397.0217  
+
+Top 5 States by Profit:
+California    76381.3871  
+New York      74028.5896  
+Washington    33402.6517  
+Michigan      24463.1876  
+Virginia      18597.9504v
