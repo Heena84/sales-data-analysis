@@ -11,7 +11,10 @@ To analyze and visualize retail sales data to identify:
 - Best-selling product categories
 
 ---
-
+## 📊 Pivot Analysis: Sales and Profit by Region  
+- File: [Sales_Profit_Pivot.xlsx](./Sales_Profit_Pivot.xlsx)
+- Contains pivot table and chart summarizing regional sales and profits.
+-
 ## 🧰 Tools & Technologies
 - *Python 3.12*
 - *pandas* for data manipulation
